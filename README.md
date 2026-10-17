@@ -7,7 +7,7 @@
 **A calm, macOS-inspired focus space that lives in every new browser tab.**
 
 <!-- Replace with your own recording. GitHub plays GIFs inline; for MP4, link to it instead. -->
-<img src="media/home.png" width="820" alt="eBee in action" />
+   <img src="media/ebee-island.gif" width="820" alt="The Dynamic Island expanding on hover" />
 
 </div>
 
