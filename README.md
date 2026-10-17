@@ -29,6 +29,10 @@
 
 ## A closer look
 
+### The home screen
+
+<img src="media/home.png" width="820" alt="The eBee home screen" />
+
 ### The Dynamic Island
 
    <img src="media/ebee-island.gif" width="820" alt="The Dynamic Island expanding on hover" />
