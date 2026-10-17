@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B2B30"/><stop offset="1" stop-color="#121214"/></linearGradient>
+<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.32"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="sh" x="-20%" y="-30%" width="140%" height="180%"><feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#000" flood-opacity="0.5"/></filter>
+<linearGradient id="gb" x1="0" y1="0" x2="1" y2="0.35"><stop offset="0" stop-color="#E8245A"/><stop offset="1" stop-color="#FF7A2F"/></linearGradient><clipPath id="cb"><polygon points="150,330 392,330 392,388 118,388"/></clipPath><linearGradient id="gm" x1="0" y1="0" x2="1" y2="0.35"><stop offset="0" stop-color="#FF3D6E"/><stop offset="1" stop-color="#FF8A3D"/></linearGradient><clipPath id="cm"><polygon points="170,248 402,248 402,306 138,306"/></clipPath><linearGradient id="gt" x1="0" y1="0" x2="1" y2="0.35"><stop offset="0" stop-color="#FF5C8A"/><stop offset="1" stop-color="#FFA15A"/></linearGradient><clipPath id="ct"><polygon points="160,196 346,110 372,166 186,252"/></clipPath>
+</defs>
+<rect x="16" y="16" width="480" height="480" rx="116" fill="url(#bg)"/>
+<rect x="16.75" y="16.75" width="478.5" height="478.5" rx="115.25" fill="none" stroke="#fff" stroke-opacity="0.08" stroke-width="1.5"/>
+<g transform="translate(-4 7)"><polygon points="150,330 392,330 392,388 118,388" fill="url(#gb)" stroke="url(#gb)" stroke-width="22" stroke-linejoin="round" filter="url(#sh)"/><polygon points="150,330 392,330 392,388 118,388" fill="url(#gloss)" clip-path="url(#cb)"/><polygon points="170,248 402,248 402,306 138,306" fill="url(#gm)" stroke="url(#gm)" stroke-width="22" stroke-linejoin="round" filter="url(#sh)"/><polygon points="170,248 402,248 402,306 138,306" fill="url(#gloss)" clip-path="url(#cm)"/><polygon points="160,196 346,110 372,166 186,252" fill="url(#gt)" stroke="url(#gt)" stroke-width="22" stroke-linejoin="round" filter="url(#sh)"/><polygon points="160,196 346,110 372,166 186,252" fill="url(#gloss)" clip-path="url(#ct)"/></g>
+</svg>
