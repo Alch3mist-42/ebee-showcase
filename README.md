@@ -31,8 +31,7 @@
 
 ### The Dynamic Island
 
-<img src="media/island.png" width="820" alt="The Dynamic Island showing the focus timer, soundscapes and Spotify" />
-
+   <img src="media/ebee-island.gif" width="820" alt="The Dynamic Island expanding on hover" />
 ### Windows, in either theme
 
 <img src="media/windowA.png" width="410" alt="The Tasks window in the dark theme" /> <img src="media/windowB.png" width="410" alt="The Notes window in the light theme" />
